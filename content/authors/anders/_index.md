@@ -72,14 +72,14 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv.pdf
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'amn@econ.ku.dk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I do structural microeconometrics in the field of Empirical Industrial Organization. I am a core member of the [Centre for Computational Economics](https://www.economics.ku.dk/research/ResearchCentres/cce/) at the University of Copenhagen. 
 {style="text-align: justify;"}
