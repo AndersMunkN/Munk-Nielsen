@@ -43,7 +43,7 @@ sections:
         - title: Associate Professor
           company: University of Copenhagen
           company_url: ''
-          company_logo: org-gc
+          company_logo: logo-ucph
           location: ''
           date_start: '2022-01-09'
           date_end: ''
@@ -54,13 +54,27 @@ sections:
           #     * Modelling
           #     * Deploying
         - title: Assistant Professor
-          company: University X
+          company: University of Copenhagen
           company_url: ''
-          company_logo: org-x
-          location: California
+          company_logo: logo-ucph
+          location: Copenhagen
           date_start: '2019-01-01'
           date_end: '2022-01-09'
           # description: 
+        - title: Visiting Researcher
+          company: MIT Department of Economics
+          company_url: ''
+          company_logo: logo-mit
+          location: Boston, USA
+          date_start: '2017-01-01'
+          date_end: '2017-12-01'
+        - title: Postdoc
+          company: University of Copenhagen
+          company_url: ''
+          company_logo: logo-ucph
+          location: Copenhagen
+          date_start: '2015-11-01'
+          date_end: '2018-12-31'
     design:
       columns: '2'
   # - block: accomplishments
