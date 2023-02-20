@@ -1,13 +1,16 @@
 ---
-title: "An example journal article"
+title: "Equilibrium Trade in Automobiles"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Kenneth Gillingham 
+- Fedor Iskhakov 
+- anders
+- John Rust 
+- Bertel Schjerning
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2022-10-01T00:00:00Z"
+doi: "10.1086/720463"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Equilibrium Trade in Automobiles"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We introduce a computationally tractable dynamic equilibrium model of automobile markets with heterogeneous consumers, focused on stationary flow equilibria. We introduce a fast, robust algorithm for computing equilibria and use it to estimate a model using nearly 39 million observations on car ownership transitions from Denmark. The estimated model fits the data well, and counterfactual simulations show that Denmark could raise total tax revenue by reducing the new-car registration tax rate. We show that reducing this tax rate while raising the tax rate on fuel increases aggregate welfare, tax revenue, and car ownership, while reducing car ages, driving, and CO2 emissions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A computationally tractable dynamic equilibrium model of automobile markets with heterogeneous consumers, focused on stationary flow equilibria. Estimated using Danish data. 
 
 tags:
 - Source Themes
@@ -34,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1086/720463
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
@@ -46,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Figure 8'
   focal_point: ""
   preview_only: false
 

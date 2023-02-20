@@ -157,14 +157,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
@@ -218,7 +218,7 @@ sections:
       # appointment_url: 'https://calendly.com'
       address:
         street: Øster Farimagsgade 5a
-        city: Ceopnhagen 
+        city: Copenhagen 
         # region: CA
         postcode: '1353'
         country: Denmark
