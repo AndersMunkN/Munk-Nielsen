@@ -5,7 +5,7 @@
 
 title: Anders Munk-Nielsen # Website name
 baseURL: 'https://andersmunkn.netlify.app/' # Website URL
-copyright: '© {year} Anders Munk-Nielsen' # Footer text, e.g. '© {year} Me'
+copyright: '2023 Anders Munk-Nielsen' # Footer text, e.g. '© {year} Me'
 
 
 ############################
