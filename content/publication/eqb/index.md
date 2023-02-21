@@ -29,7 +29,7 @@ summary: A computationally tractable dynamic equilibrium model of automobile mar
 
 tags:
 - Cars
-featured: true
+featured: false
 selected: true # not sure what this does
 
 links:
