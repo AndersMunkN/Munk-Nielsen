@@ -17,7 +17,7 @@ main:
     url: '#teaching'
     weight: 70
   - name: CV
-    url: uploads/resume.pdf
+    url: pdf/CV.pdf
     weight: 80 
 
 # Link to a PDF of your resume/CV from the menu.
