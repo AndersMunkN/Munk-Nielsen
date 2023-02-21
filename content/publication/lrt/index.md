@@ -26,7 +26,7 @@ summary: A highly flexible estimator of individual-level income dynamics based o
 
 tags:
 - Income
-featured: true
+featured: false
 selected: true # not sure what this does
 
 links:
