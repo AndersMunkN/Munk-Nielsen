@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anders Munk-Nielsen
+title: Anders Munk&#8209;Nielsen
 
 # Full name (for SEO)
 first_name: Anders
