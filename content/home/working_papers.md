@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Working Papers here
+title: Working Papers
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 2
+  count: 4
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: '3'
+    publication_type: '3' # 3 = WP 
     author: ''
     exclude_featured: true
 design:
