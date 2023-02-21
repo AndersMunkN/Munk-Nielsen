@@ -30,7 +30,7 @@ featured: false
 selected: true # not sure what this does
 
 links:
-- name: "EJ"
+- name: "Econometrics Journal"
   url: "https://doi.org/10.1093/ectj/utaa026"
 url_code: https://github.com/JeppeDruedahl/LRT
 # url_pdf: 

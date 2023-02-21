@@ -26,8 +26,8 @@ summary: A structural model of car choice and driving, which allows for compleme
 
 tags:
 - Cars
-featured: true
-selected: false # not sure what this does
+featured: false
+selected: true
 
 links:
 url_pdf: "/pdf/two-car.pdf"
