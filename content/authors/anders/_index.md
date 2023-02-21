@@ -72,7 +72,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV.pdf
+    link: pdf/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'amn@econ.ku.dk'
@@ -83,5 +83,5 @@ highlight_name: true
 
 I am an Associate Professor of Economics at the University of Copenhagen. I am a core member of the [Centre for Computational Economics](https://www.economics.ku.dk/research/ResearchCentres/cce/) at the University of Copenhagen. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
