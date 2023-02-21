@@ -37,12 +37,6 @@ links:
   url: "https://www.journals.uchicago.edu/doi/10.1086/720463"
 url_pdf: https://doi.org/10.1086/720463
 url_code: https://github.com/fediskhakov/EQB
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

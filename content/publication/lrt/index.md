@@ -31,20 +31,14 @@ selected: true # not sure what this does
 
 links:
 - name: "EJ"
-  url: "https://www.journals.uchicago.edu/doi/10.1086/720463"
-url_pdf: https://doi.org/10.1093/ectj/utaa026
+  url: "https://doi.org/10.1093/ectj/utaa026"
 url_code: https://github.com/JeppeDruedahl/LRT
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Log Income Moments over the Life Cycle'
+  caption: 'Moments of log Income over the Life Cycle'
   focal_point: ""
   preview_only: false
 
