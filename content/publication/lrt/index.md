@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Econometrics Journal"
-publication_short: "EJ"
+# publication_short: "EJ"
 
 abstract: We propose a novel method for modelling income processes using machine learning. Our method links age-specific regression trees, and returns a discrete state process, which can easily be included in consumption-saving models without further discretizations. A cen- tral advantage of our approach is that it does not rely on any parametric assumptions, and because we build on existing machine learning tools it is furthermore easy to apply in practice. Using a 30-year panel of Danish males, we document rich higher-order income dynamics, including substantial skewness and high kurtosis of income levels and growth rates. We also find important changes in income risk over the life-cycle and the income distribution. Our estimated process matches these dynamics closely. Using a consumption-saving model, the implied welfare cost of income risk is more than 10% of income.
 

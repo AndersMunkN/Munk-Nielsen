@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Urban Economics"
-publication_short: "JUE"
+# publication_short: "JUE"
 
 abstract: Pricing greenhouse gases is widely understood as the most efficient approach for mitigating climate change, yet distributional effects hamper political acceptance. These distributional effects are especially important in transport, the fastest growing sector for greenhouse gas emissions. Using rich data covering the entire population of vehicles and households in Denmark, this study uncovers an important feature of driving demand; two groups of much more responsive households in the lower and upper tails of the work distance distribution. We further estimate the causal effect of public transport--a critical determinant of the upper tail--and show how public transport access can both reconcile differences in fuel price elasticities between the United States and Europe, and considerably influence the distributional effects of fuel pricing.
 

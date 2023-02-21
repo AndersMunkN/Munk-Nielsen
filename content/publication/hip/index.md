@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Economic Dynamics and Control"
-publication_short: "JEDC"
+# publication_short: "JEDC"
 
 abstract: This paper shows that a central implication of heterogeneous income profiles (HIP) is that the covariance between the level of income and future income growth rates must become strongly positive from about age 40. Covariances of income levels and future growth rates therefore have strong identifying power for HIP. We show that adding such moments to an estimation can reverse seemingly strong evidence of HIP. We show this both in a small sample Monte Carlo study and using PSID data. Our results are robust to including a fixed effect correlated with the HIP component.
 
