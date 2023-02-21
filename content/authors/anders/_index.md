@@ -81,7 +81,7 @@ email: 'amn@econ.ku.dk'
 highlight_name: true
 ---
 
-I am an Associate Professor of Economics at the University of Copenhagen. I am a core member of the [Centre for Computational Economics](https://www.economics.ku.dk/research/ResearchCentres/cce/) at the University of Copenhagen. 
+I am an Associate Professor of Economics at the University of Copenhagen. I am a core member of the [Centre for Computational Economics](https://www.economics.ku.dk/research/ResearchCentres/cce/). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
