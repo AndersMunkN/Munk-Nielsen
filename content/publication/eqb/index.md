@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Political Economy"
-publication_short: "JPE"
+# publication_short: "JPE"
 
 abstract: We introduce a computationally tractable dynamic equilibrium model of automobile markets with heterogeneous consumers, focused on stationary flow equilibria. We introduce a fast, robust algorithm for computing equilibria and use it to estimate a model using nearly 39 million observations on car ownership transitions from Denmark. The estimated model fits the data well, and counterfactual simulations show that Denmark could raise total tax revenue by reducing the new-car registration tax rate. We show that reducing this tax rate while raising the tax rate on fuel increases aggregate welfare, tax revenue, and car ownership, while reducing car ages, driving, and CO2 emissions.
 
