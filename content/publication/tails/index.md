@@ -26,8 +26,8 @@ summary: ''
 
 tags:
 - Cars
-featured: true
-selected: true # not sure what this does
+featured: false
+selected: true 
 
 links:
 - name: "Journal of Urban Economics"
