@@ -4,7 +4,7 @@ authors:
 - Sule Alan
 - anders
 - Søren Leth-Petersen
-date: "2018-09-01T00:00:00Z"
+date: "2016-06-15T00:00:00Z"
 doi: "10.1016/j.econlet.2016.06.014"
 
 # Schedule page publish date (NOT publication's date).
