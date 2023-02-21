@@ -30,7 +30,7 @@ featured: true
 selected: true # not sure what this does
 
 links:
-- name: "JUE"
+- name: "Journal of Urban Economics"
   url: "https://doi.org/10.1016/j.jue.2018.09.007"
 url_pdf: https://doi.org/10.1016/j.jue.2018.09.007
 url_code: ''

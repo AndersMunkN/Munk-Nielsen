@@ -27,9 +27,9 @@ bio: I do research in Empirical Industrial Organization
 # Interests to show in About widget
 interests:
   - Demand Estimation
-  - Cars
-  - Pharmaceuticals
-  - Income Dynamics
+  - Health Economics 
+  - Transportation Economics
+  - Computational Economics
 
 # Education to show in About widget
 education:
@@ -37,12 +37,12 @@ education:
     - course: PhD in Economics
       institution: University of Copenhagen
       year: 2015
-    - course: MSc in Economics
-      institution: University of Copenhagen
-      year: 2012
-    - course: BSc in Economics
-      institution: University of Copenhagen
-      year: 2010
+    # - course: MSc in Economics
+    #   institution: University of Copenhagen
+    #   year: 2012
+    # - course: BSc in Economics
+    #   institution: University of Copenhagen
+    #   year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -81,5 +81,7 @@ email: 'amn@econ.ku.dk'
 highlight_name: true
 ---
 
-I do structural microeconometrics in the field of Empirical Industrial Organization. I am a core member of the [Centre for Computational Economics](https://www.economics.ku.dk/research/ResearchCentres/cce/) at the University of Copenhagen. 
-{style="text-align: justify;"}
+I am an Associate Professor of Economics at the University of Copenhagen. I am a core member of the [Centre for Computational Economics](https://www.economics.ku.dk/research/ResearchCentres/cce/) at the University of Copenhagen. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
