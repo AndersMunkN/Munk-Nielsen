@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:amn@econ.ku.dk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AndersMunkN
