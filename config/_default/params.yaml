@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night: 1950s
-  day_night: true
+  theme_night: minimal
+  day_night: false
   font: minimal
   font_size: L
 

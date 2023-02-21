@@ -4,7 +4,7 @@ authors:
 - Kenneth Gillingham 
 - anders
 date: "2018-11-24T00:00:00Z"
-doi: "10.1086/720463"
+# doi: "10.1086/720463"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -32,7 +32,7 @@ selected: true
 links:
 - name: "Journal of Urban Economics"
   url: "https://doi.org/10.1016/j.jue.2018.09.007"
-url_pdf: https://doi.org/10.1016/j.jue.2018.09.007
+# url_pdf: https://doi.org/10.1016/j.jue.2018.09.007
 url_code: ''
 url_dataset: ''
 url_poster: ''

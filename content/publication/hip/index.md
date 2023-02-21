@@ -4,7 +4,7 @@ authors:
 - Jeppe Druedahl
 - anders
 date: "2018-09-01T00:00:00Z"
-doi: "10.1016/j.jedc.2018.07.003"
+# doi: "10.1016/j.jedc.2018.07.003"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
