@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: munk
+  theme_night: munk
   day_night: false
   font: minimal
   font_size: L
