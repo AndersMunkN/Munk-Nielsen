@@ -1,6 +1,8 @@
 ---
 # Display name
-title: Anders Munk-Nielsen
+# title: Anders Munk-Nielsen
+# This name contains the "no line break" hypthen :) 
+title: Anders Munk‑Nielsen 
 
 # Full name (for SEO)
 first_name: Anders
