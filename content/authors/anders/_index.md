@@ -39,9 +39,9 @@ education:
     - course: PhD in Economics
       institution: University of Copenhagen
       year: 2015
-    # - course: MSc in Economics
-    #   institution: University of Copenhagen
-    #   year: 2012
+    - course: MSc in Economics
+      institution: University of Copenhagen
+      year: 2013
     # - course: BSc in Economics
     #   institution: University of Copenhagen
     #   year: 2010
