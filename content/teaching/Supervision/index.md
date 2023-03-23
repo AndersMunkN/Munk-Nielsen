@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-01-01 11:00:00+01:00
+date: 2023-03-23 11:00:00+01:00
 draft: false
 image:
   caption: # caption if you add a picture 
@@ -12,6 +12,8 @@ title: Supervision
 ---
 
 # Choosing a topic  
+
+*You can find most of the information from this page in a convenient pdf [here](/pdf/vejledning.pdf).*
 
 **My expertise:** I specialize in empirical or computational research and I am strongest there. I am interested in empirical industrial organization. 
 
