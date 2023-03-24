@@ -60,12 +60,15 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.dk/citations?user=udU754gAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/AndersMunkN
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-9095-1197
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
@@ -85,7 +88,7 @@ highlight_name: true
 
 I am an Associate Professor of Economics at the University of Copenhagen. I am a core member of the [Centre for Computational Economics](https://www.economics.ku.dk/research/ResearchCentres/cce/). 
 
-[ORCID](https://orcid.org/0000-0002-9095-1197): 0000-0002-9095-1197
+<!-- [ORCID](https://orcid.org/0000-0002-9095-1197): 0000-0002-9095-1197 -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
