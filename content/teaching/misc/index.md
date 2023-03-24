@@ -5,7 +5,7 @@ draft: false
 image: 
   caption: Sleep pattern for my daughter # , 9 Dec 2018 (inner) to 25 Jun 2019 (outer)
   focal_point: Left
-summary: Misc
+summary: Miscellaneous links
 tags:
 - misc
 title: Misc

@@ -5,7 +5,7 @@ draft: false
 image:
   caption: # caption if you add a picture 
   focal_point: Left
-summary: Supervision
+summary: My thoughts about supervision
 tags:
 - teaching
 title: Supervision
