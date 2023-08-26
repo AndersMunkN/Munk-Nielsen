@@ -8,8 +8,8 @@ image:
 summary: Advanced Industrial Organization
 tags:
 - teaching
-title: Adv. IO
+title: Advanced IO
 ---
 
-This is an upcoming master's course in economics, to be taught for the first time in the fall of 2023.
+This is an upcoming master's course in economics, to be taught for the first time in the fall of 2024.
 
