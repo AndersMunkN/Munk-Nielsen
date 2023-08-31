@@ -28,10 +28,11 @@ bio: I do research in Empirical Industrial Organization
 
 # Interests to show in About widget
 interests:
+  - Empirical Industrial Organization
   - Demand Estimation
+  - Computational Economics
   - Health Economics 
   - Transportation Economics
-  - Computational Economics
 
 # Education to show in About widget
 education:
