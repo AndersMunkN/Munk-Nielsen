@@ -32,7 +32,7 @@ interests:
   - Demand Estimation
   - Computational Economics
   - Health Economics 
-  - Transportation Economics
+  - Transport Economics
 
 # Education to show in About widget
 education:
