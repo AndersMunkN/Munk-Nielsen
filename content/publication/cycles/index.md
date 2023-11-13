@@ -19,10 +19,10 @@ publication_types: ["3"] # 3 = WP
 publication: "Working paper"
 # publication_short: "JPE"
 
-abstract: We study  the effect of consumer search frictions  on dynamic price equilibria in a posted price mechanism for pharmaceutical products in Denmark and the role of consumer search frictions herein. We observe widespread price cycles across 1791 markets. Demand is characterized by search: pharmacies must inform consumers about the cheapest product, resulting in a sharp demand discontinuity at the lowest price, but also non-negligible demand at higher prices from loyal consumers. We revisit observed empirical regularities from price cycles in retail gasoline markets and confirm a similar relationship with competition. 
+abstract: "We study  the effect of consumer search frictions  on dynamic price equilibria in a posted price mechanism for pharmaceutical products in Denmark and the role of consumer search frictions herein. We observe widespread price cycles across 1791 markets. Demand is characterized by search: pharmacies must inform consumers about the cheapest product, resulting in a sharp demand discontinuity at the lowest price, but also non-negligible demand at higher prices from loyal consumers. We revisit observed empirical regularities from price cycles in retail gasoline markets and confirm a similar relationship with competition." 
 
 # Summary. An optional shortened abstract.
-summary: An empirical study of price cycles in Danish pharmaceutical markets. 
+summary: "An empirical study of price cycles in Danish pharmaceutical markets." 
 
 tags:
 - Pharmaceuticals

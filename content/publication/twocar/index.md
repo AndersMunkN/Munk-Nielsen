@@ -19,10 +19,10 @@ publication_types: ["3"] # 3 = WP
 publication: "Working paper"
 # publication_short: "JPE"
 
-abstract: We formulate and estimate a model of car portfolio choice and driving, which allows two cars to be substitutes or complements, both in ownership and driving. We estimate the model using Norwegian register data, which features rich policy variation. We find significant portfolio synergies between an EV and a combustion vehicle (CV), and for 16% of households the synergies are so strong that the two become strict Hicksian complements. This implies that EVs tend to come as additions to existing CVs rather than as replacements. Failure to account for portfolio synergies leads to an overly optimistic assessment of EV adoption incentives.
+abstract: "We formulate and estimate a model of car portfolio choice and driving, which allows two cars to be substitutes or complements, both in ownership and driving. We estimate the model using Norwegian register data, which features rich policy variation. We find significant portfolio synergies between an EV and a combustion vehicle (CV), and for 16% of households the synergies are so strong that the two become strict Hicksian complements. This implies that EVs tend to come as additions to existing CVs rather than as replacements. Failure to account for portfolio synergies leads to an overly optimistic assessment of EV adoption incentives."
 
 # Summary. An optional shortened abstract.
-summary: A structural model of car choice and driving, which allows for complements. We find empirically that an EV is a complement to a conventional vehicle. 
+summary: "A structural model of car choice and driving, which allows for complements. We find empirically that an EV is a complement to a conventional vehicle." 
 
 tags:
 - Cars
