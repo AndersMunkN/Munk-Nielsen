@@ -46,7 +46,7 @@ The department of economics allocates a specific number of hours of supervision 
 
 Typically, it makes sense to meet every 2-3 weeks, but this changes somewhat with the distance to the deadline. *(Of course, you don't have to worry about keeping track of hours, I will do that. And nobody gets left behind if there is a need for extra supervision.)*
 
-**Your responsibility:** Contact me when you need supervision and we arrange a date. 
+**Your responsibility:** Contact me when you need supervision and we arrange a date. ***Important:*** You must send a calendar invite to my outlook calendar and make sure I accept the invitation so that we are sure we have the same date and time in our calendars. This may be the first time you send an outlook calendar invitation so read up online, there are simple guides [Apple](https://support.apple.com/da-dk/guide/iphone/iph82c5721ca/ios), [Gmail](https://support.google.com/calendar/answer/37161?hl=en&co=GENIE.Platform%3DDesktop), Microsoft, etc. 
 
 **Before a meeting:** Before each meeting, send me 
 * A brief agenda with what you want to cover at that meeting. 
