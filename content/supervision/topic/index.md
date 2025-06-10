@@ -17,7 +17,7 @@ weight: 3
 **Choosing a topic:** This is the most important problem. Know that it is ok to have a general interest but not necessarily a specific setting that you want to apply it to. There are, however, some general guidelines. 
 
 1. **Empirical or not:** If you want to work with real data, then the choice of topic is all about the data. Of course there are some datasets that can be used to study many different questions, but for many datasets it is somewhat limited what you can do. Here's an excellent resource for finding papers that can be *replicated*, which typically means that there is both data and code accompanying: [uni-goettingen.de](https://replication.uni-goettingen.de/wiki/index.php/Category:Replication). 
-2. **Know thy self:** Find out what constitutes a good project *for you*. You must be brutally honest about your objectives -- you only deceive yourself otherwise. See 
+2. **Know thy self:** Find out what constitutes a good project *for you*. You must be brutally honest about your objectives -- you only deceive yourself otherwise. Look at the **Goals** section below and find out what matters to you: focus on this when choosing a topic.
 
 ## Goals 
 
