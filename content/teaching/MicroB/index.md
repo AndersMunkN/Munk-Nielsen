@@ -9,6 +9,7 @@ summary: Microeconomics B (Game Theory)
 tags:
 - teaching
 title: MicroB
+weight: 10
 ---
 
 This is a second-year course at the bachelor in Computer Science & Economics. 

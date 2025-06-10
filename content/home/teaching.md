@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    tag: ""
+    tag: "teaching"
     exclude_featured: false
     exclude_future: false
     exclude_past: false

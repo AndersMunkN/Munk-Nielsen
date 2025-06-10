@@ -9,6 +9,7 @@ summary: Advanced Microeconometrics
 tags:
 - teaching
 title: Adv. Microeconometrics
+weight: 5
 ---
 
 I've taught this course in 2015, 2016, 2020, 2021, and finally in 2022. 

@@ -9,7 +9,10 @@ summary: Advanced Industrial Organization
 tags:
 - teaching
 title: Advanced IO
+weight: 10 
 ---
 
-This is an upcoming master's course in economics, to be taught for the first time in the fall of 2024.
+#  Advanced Industrial Organization: Pricing, Information and Digital Markets
+
+Advanced IO is a master's level course in economics, taught first time in the fall of 2024. It covers both theoretical and empirical aspects of IO, with a focus on pricing, information, and digital markets. 
 
