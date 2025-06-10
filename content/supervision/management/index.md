@@ -1,15 +1,11 @@
 ---
-categories: []
-date: 2023-03-23 11:00:00+01:00
-draft: false
-image:
-  caption: # caption if you add a picture 
-  focal_point: Left
-summary: My thoughts about supervision
+date: 2025-06-10 
+title: Project Management 
+summary: How do you plan and structure the largest project of your life so far?
+weight: 20 
 tags:
 - supervision
-title: Project Management 
-weight: 2
+draft: false
 ---
 
 # Project Management 

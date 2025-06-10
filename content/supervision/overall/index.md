@@ -1,19 +1,27 @@
 ---
-categories: []
-date: 2023-03-23 11:00:00+01:00
+date: 2025-06-10 
 draft: false
 image:
   caption: # caption if you add a picture 
   focal_point: Left
-summary: What can you expect from me as a supervisor, and what do I expect from you?
+summary: Start here to find information and an overview of my supervision pages. 
 tags:
 - supervision
-title: Aligning expectations
-weight: 2
+title: Main supervision page 
+weight: 1
 ---
 
 
-# Tips
+# General information about supervision
+
+* [Aligning expectations](/supervision/expectations): what can you expect from me and what do I expect from you?
+* [Choosing a topic](/supervision/topic): what's right for you? 
+* [Writing a thesis](/supervision/writing): how to write a thesis in economics. 
+* [Using AI tools](/supervision/ai): you need to use them, but how? 
+* [Project management](/supervision/management): how do you plan and structure the largest project of your life so far? 
+
+
+## General tips 
 
 * **Groups:** I recommend working in a group. 
 * **Read other theses:** You can find previuos student theses, and it is important to read at least two good ones early on to get a sense of the format, writing style, and structure. Ask the study administraiton for access. 

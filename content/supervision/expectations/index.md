@@ -1,6 +1,5 @@
 ---
-categories: []
-date: 2023-03-23 11:00:00+01:00
+date: 2025-06-10 
 draft: false
 image:
   caption: # caption if you add a picture 
@@ -9,7 +8,7 @@ summary: What can you expect from me as a supervisor, and what do I expect from 
 tags:
 - supervision
 title: Aligning expectations
-weight: 2
+weight: 2 
 ---
 
 

@@ -1,15 +1,11 @@
 ---
-categories: []
-date: 2023-03-23 11:00:00+01:00
 draft: false
-image:
-  caption: # caption if you add a picture 
-  focal_point: Left
+date: 2025-06-10 
 summary: Information about the thesis defense
 tags:
 - supervision
 title: The Defense
-weight: 2
+weight: 90
 ---
 
 

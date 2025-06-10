@@ -1,15 +1,11 @@
 ---
-categories: []
-date: 2023-03-23 11:00:00+01:00
+date: 2025-06-10 
 draft: false
-image:
-  caption: # caption if you add a picture 
-  focal_point: Left
-summary: My thoughts about supervision
+summary: How to choose a good topic for your thesis
 tags:
 - supervision
 title: Choosing the topic 
-weight: 2
+weight: 3 
 ---
 
 # Choosing a topic  

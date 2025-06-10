@@ -1,15 +1,11 @@
 ---
-categories: []
-date: 2023-03-23 11:00:00+01:00
+date: 2025-06-10
+title: Writing a thesis
 draft: false
-image:
-  caption: # caption if you add a picture 
-  focal_point: Left
-summary: How to write a thesis 
+summary: Tips about the writing process 
 tags:
 - supervision
-title: Writing a thesis
-weight: 2
+weight: 15 
 ---
 
 # Writing 

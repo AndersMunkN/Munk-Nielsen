@@ -13,12 +13,18 @@ main:
   - name: Working Papers
     url: '#working_papers'
     weight: 60
+  - name: Work in Progress
+    url: '#work_in_progress'
+    weight: 65
   - name: Teaching
     url: '#teaching'
     weight: 70
+  - name: Supervision
+    url: '#supervision'
+    weight: 80
   - name: CV
     url: pdf/CV.pdf
-    weight: 80 
+    weight: 90 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
