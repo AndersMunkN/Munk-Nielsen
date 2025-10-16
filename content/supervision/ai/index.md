@@ -14,6 +14,7 @@ weight: 40
 Times are changing as AI tools (chatGPT, copilot, etc.) are becoming better. By now, you should definitely be using these tools as much as possible, and for almost all stages. 
 
 * **The role of AI:** The AI is a *new tool*. It is a **complement** to the supervisor, not a replacement. But it can seriously boost what you can get out of supervision. It is also a tool for writing and thinking that can boost your potential; but *avoid* becoming a blind passenger. You need to be in charge. 
+* **Specialized AI tools:** Try [elicit](elicit.com), which is a tool for research that can help you with literature reviews, structuring your research questions, and more. 
 * **Bonus co-supervisor:** Prompt your AI with e.g. *"You are a professor in economics and my supervisor in writing my bachelor's/master's thesis. (...)"* and then ask it whatever questions you have for me, your actual supervisor. Some questions actually have obvious answers, and frequently, this will help you refine and narrow down your questions to me. 
 * **Writing:** Use it as much as possible. Your focus should be on a brief list of the arguments you want to make in each paragraph, and then the AI could help you flesh out the actual writing. 
 * **Coding:** Obviously use it here. 
