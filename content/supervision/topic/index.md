@@ -27,12 +27,13 @@ People differ quite a lot in terms of what matters to them. Therefore, rank the 
 
 > **Task:** Rank the following goals according to *your* preferences. 
 
-* **The grade:** Geting it as high as possible. 
+* **The grade:** Geting it as high as possible. Some feel uncomfortable admitting that the grade is what matters. But there is no shame in identifying what motivates you - this is how you ensure that you will apply yourself fully and fulfill your potential.
 * **The process:** A predictable, straightforard process where you constantly know where you are and what the next tasks will be, and how much work is remaining. 
-* **Real-world relevance:** Working on a problem, which *matters* to someone in the real world. For instance, solving a problem faced by a firm or public entity right now. 
-* **Personal relevance:** Working on a topic that you personally care about. For instance a cause (like saving the environment), a pass-time activity (like a sport or game you enjoy), or an industry you have worked in.
-* **Mastery:** Getting the sense of truly *understanding* something at a very deep level, or *building/making* something that you are proud of. 
-* **Job prospects:** Learning skills that will make you employable in a specific job type later, which will impress a specific type of employer, or which may be useful in making your own startup. 
+* **The topic:** The topic can matter for a variety of reasons:
+  * **Real-world relevance:** Working on a problem, which *matters* to someone in the real world. For instance, solving a problem faced by a firm or public entity right now. 
+  * **Personal relevance:** Working on a topic that you personally care about. For instance a cause (like saving the environment), a pass-time activity (like a sport or game you enjoy), or an industry you have worked in.
+  * **Mastery:** Getting the sense of truly *understanding* something at a very deep level, or *building/making* something that you are proud of. 
+  * **Job prospects:** Learning skills that will make you employable in a specific job type later, which will impress a specific type of employer, or which may be useful in making your own startup. 
 
 ## Examples
 
@@ -60,3 +61,5 @@ For empirical projects, the dataset and available variables largely determine th
 
 Let's have a dialectic approach to reach clarity about my direction forward.
 ```
+
+Of course, the goal is not to outsource the thinking or the supervising to an AI. But my experience is that too many initial meetings start out very vague and unstructured, which makes it hard to get anywhere. Having a structured conversation with an AI first can help you get clarity about what you want, and at the very least to become aware about what questions you have for me, the real-world supervisor (although of course, some of this text is also written by an AI... maybe all? Surely not...). 
